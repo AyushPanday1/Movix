@@ -38,7 +38,8 @@ To run Movix locally, follow these steps:
 - npm run dev
 
 2. **Open local server**
-   Type localhost:3000 on server and have fun!
+
+Type localhost:3000 on server and have fun!
 
 ## Usage
 

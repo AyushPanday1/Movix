@@ -57,7 +57,7 @@ We welcome contributions from the community! Whether it's fixing bugs, adding ne
 
 ## License
 
-Craft-CV is licensed under the [MIT License](./LICENSE).
+Movix is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 

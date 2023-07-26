@@ -32,7 +32,7 @@ Check out the live demo of Movix: [Movix Demo](https://moviiixx.netlify.app/)
 To run Movix locally, follow these steps:
 
 1. **Clone the repository:**
-- git clone https://github.com/yourusername/movix.git
+- git clone https://github.com/ayushPanday1/movix.git
 - cd Movix
 - npm install
 - npm run dev

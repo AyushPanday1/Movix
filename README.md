@@ -72,5 +72,4 @@ If you have any questions or feedback, feel free to reach out:
 ## Happy Coding!
 © 2023 Ayush Panday
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 

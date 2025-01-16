@@ -1,4 +1,4 @@
-# Movix - Movie Website
+# Movix - Movie Website!
 
 Movix is a movie information website that utilizes data from TMDB (The Movie Database). Built with React, Redux, and Vite, Movix offers users access to a vast collection of movie details, including plot summaries, cast, crew, ratings, and more.
 
